@@ -1,9 +1,17 @@
 # Lox_java
 
-Lox_java是一个用Java实现的Lox语言的解释器，它是根据[Crafting Interpreters]这本书的内容编写的。
+整合了《Crafting Interpreters》中JAVA编写的解释器部分，供学习参考。
 
-## Lox语言
+## 关于 Lox 语言
 
-Lox是一种简单的、动态类型的、面向对象的编程语言，它支持类、继承、闭包、函数等特性。你可以在[Crafting Interpreters]这本书的[网站]上学习更多关于Lox语言的内容。
+Lox是一门简单但功能齐全的编程语言，用于教育目的。它是由Robert Nystrom定义，在他的书《Crafting Interpreters》中。
 
+## 参考书籍
 
+在这个项目中，我们主要参考了以下书籍：
+
+- [Crafting Interpreters](https://craftinginterpreters.com/)：这本书是Lox解释器和编译器的作者Robert Nystrom编写的，它提供了深入的关于Lox的解释和实现细节的教育材料。
+
+## 如何贡献
+
+如果你对这个项目感兴趣，欢迎贡献代码、报告问题或提出建议。请参阅贡献指南以获取更多信息。
